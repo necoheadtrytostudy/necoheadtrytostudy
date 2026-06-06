@@ -37,7 +37,14 @@ Independently built and styled the team wiki using HTML/CSS after learning web d
 [View the repository](https://github.com/necoheadtrytostudy/java-coursework-portfolio)
 Selected Java projects covering Swing GUI development, object-oriented programming, JDBC/MySQL, file I/O, and basic multithreading.
 
+### [Computer Systems Coursework](https://github.com/necoheadtrytostudy/computer-systems-coursework-showcase)
+
+A source-free showcase of Operating Systems and Computer Architecture projects, including Unix processes, multithreading, file systems, MIPS assembly, and processor simulation.
+
+[View the repository](https://github.com/necoheadtrytostudy/computer-systems-coursework-showcase)
+
 ## Contact
 
 - **Email:** SHANGWEN@UWM.EDU
 - **GitHub:** [necoheadtrytostudy](https://github.com/necoheadtrytostudy)
+
