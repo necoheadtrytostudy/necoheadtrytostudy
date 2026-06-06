@@ -20,7 +20,7 @@ Computer Science undergraduate at the University of Wisconsin-Milwaukee, interes
 
 ## Featured Projects
 
-### TA Scheduler
+### [TA Scheduler](https://github.com/necoheadtrytostudy/ta-scheduler-project-showcase)
 
 A Django-based scheduling system developed through sprint planning, user stories, PBIs, demos, and automated testing.
 
@@ -32,8 +32,9 @@ Independently built and styled the team wiki using HTML/CSS after learning web d
 
 [View the website](https://2022.igem.wiki/bjwz-china/)
 
-### Java Coursework Portfolio
+### [Java Coursework Portfolio](https://github.com/necoheadtrytostudy/java-coursework-portfolio)
 
+[View the repository](https://github.com/necoheadtrytostudy/java-coursework-portfolio)
 Selected Java projects covering Swing GUI development, object-oriented programming, JDBC/MySQL, file I/O, and basic multithreading.
 
 ## Contact
